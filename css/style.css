@@ -77,6 +77,9 @@ h1 {
 .instagram {
   background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af);
 }
+.tiktok {
+  background: linear-gradient(135deg, #010101, #25f4ee, #fe2c55);
+}
 
 .link:hover {
   transform: translateY(-4px) scale(1.02);
